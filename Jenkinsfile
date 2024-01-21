@@ -46,7 +46,7 @@ pipeline {
         }
     }
 
-    // the post section is a special collection of stages
+    //The post section is a special collection of stages
     // that are run after all other stages have completed
     post {
 
